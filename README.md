@@ -1,2 +1,7 @@
-# awesome-bootstrap4
-This is an open source repository of a example bootstrap4 
+How to Contribute : 
+1. Fork this repo 
+2. Clone repo
+3. Change the code and make this project even more interesting. 
+4. Commit, Push and Pull 
+
+Happy Coding & Happy Hacktoberfest!!  ^_^ 
